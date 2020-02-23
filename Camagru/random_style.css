@@ -1,0 +1,90 @@
+body{
+    background-color: wheat;
+}
+h1{
+    position: relative;
+    font-size: 70px;
+    font-style: italic;
+    color: teal;
+}
+h4{
+    font-size: 20px;
+    color: teal;
+}
+.demo{
+    font-size: 170px;
+    color: red;
+}
+.Password{
+    color: teal;
+}
+.img_box{
+    width: 350px;
+    height:460px;
+    color: teal;
+}
+.comm_view{
+    /*width: 200px;*/
+    color: teal;
+}
+.img_file {
+    width: 325px;
+    height: 280px;
+    margin: 0px 0px 10px 13px;
+}
+/*.img_title{text-align: center;}*/
+.comment_box{
+    width: 90%;
+    height: 30px;
+}
+.video_box{
+    position: relative;
+    width:820px;
+    height: 300px;
+    border-radius: 5px;    
+}
+#video{
+    position: absolute;
+    width:400px;
+    height: 300px;
+}
+#canvas{
+    position: absolute;
+    right: 0;
+}
+.redirect{
+    position: fixed;
+    top: 0;
+    right: 10px;
+    font-style: normal;
+}
+.redirect a{
+    text-decoration: none;
+    font-size: 20px;
+    display: block;
+    padding: 10px;
+}
+#deleteImg{
+    position: relative;
+    left: 375px;
+    bottom: 155px;
+}
+.stickers{
+    
+    position: relative;
+    width: 400px;
+    height: 100px;
+}
+.stickers img{
+    margin: 6px 0;
+    width: 80px;
+    height: 70px;
+}
+.footerBar{
+    color: teal;
+    bottom: 0;
+    width: 100%;
+}
+.footerBar p{
+    font-size: 20px;
+}

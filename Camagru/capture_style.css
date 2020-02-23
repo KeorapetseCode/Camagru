@@ -1,0 +1,25 @@
+body{
+    background-color: wheat;
+}
+.Name{
+    color: teal;
+}
+h1{
+    font-size: 90px;
+    font-style: italic;
+    color: teal;
+}
+.stickers{
+	position: relative;
+  	left: 410px;
+  	top: -50px;
+}
+#sticker{
+	width: 80px;
+	height: 70px;
+}
+.footerBar{
+    color: teal;
+    position: relative;
+    top: 320;
+}
